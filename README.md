@@ -1,3 +1,3 @@
-# Strapi application
+# Kamienico admin
 
-A quick description of your strapi application
+Admin for kamienico application

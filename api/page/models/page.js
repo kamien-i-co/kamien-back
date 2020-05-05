@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Lifecycle callbacks for the `tag` model.
+ * Lifecycle callbacks for the `page` model.
  */
 
 module.exports = {

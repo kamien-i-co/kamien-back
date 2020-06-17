@@ -9,7 +9,7 @@ module.exports = ({ env }) => ({
         host: env('DATABASE_HOST'),
         port: env.int('DATABASE_PORT'),
         username: env('DATABASE_USERNAME'),
-        password: env('DATABASE_USERNAME')
+        password: env('DATABASE_PASSWORD')
       },
       options: {
         'useNullAsDefault': true
